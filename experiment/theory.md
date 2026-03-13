@@ -34,4 +34,4 @@ By the end of this experiment students should be able to :
 
 2. Performed wear test
 
-3. Identified between abrasive and adhesive wear
+3. Identified abrasive and adhesive wear
